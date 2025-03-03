@@ -1,0 +1,3 @@
+-- Asteroids --
+- a funny game
+- Tools : Python
